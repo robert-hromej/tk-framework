@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    haml (3.1.4)
+    liquid (2.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  haml
+  liquid

@@ -1,0 +1,5 @@
+  def {{ name }}
+    return @{{ name }} if @{{ name }}
+
+    @{{ name }} = {{ type }}.new {{ parent }}
+  end
